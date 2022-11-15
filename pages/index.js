@@ -1,28 +1,30 @@
 import React from "react";
 import config from "../config.json"
-import Header from "../components/Header";
-import Menu from "../components/Menu";
-import Timeline from "../components/Timeline";
-import { CSSReset } from "../components/CSSReset";
-import { StyledTimeline } from "../components/StyleTimeline";
+import Header from "../src/components/Header";
+import Menu from "../src/components/Menu";
+import Timeline from "../src/components/Timeline";
+import { CSSReset } from "../src/components/CSSReset";
+import { StyledTimeline } from "../src/components/StyleTimeline";
 
 function HomePage() {
-    const estilosHomePage = { 
+    const estilosHomePage = {
         display: "flex",
         flexDirection: "column",
         flex: 1,
     };
+
+    const [filterValue, setfilterValue] = React.useState('');
+
     return (
         <>
-        <CSSReset/>
-        <div style={estilosHomePage}>
-        <Menu/>
-        <Header/>
-        <StyledTimeline>
-
-        <Timeline playlists={config.playlists}/>
-        </StyledTimeline>
-        </div>
+            <CSSReset />
+            <div style={estilosHomePage}>
+                <Menu filterValue={filterValue} setfilterValue={setfilterValue}/>
+                <Header />
+                <StyledTimeline>
+                    <Timeline searchValue={filterValue} playlists={config.playlists} />
+                </StyledTimeline>
+            </div>
         </>
     )
 }

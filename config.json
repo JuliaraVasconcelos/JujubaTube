@@ -2,46 +2,61 @@
     "name": "Juliara Vasconcelos (Jujuba)",
     "description": "Dev FrontEnd",
     "github": "juliaravasconcelos",
+    "header": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1555&q=80",
     "playlists": {
         "games": [
             {
                 "title": "Cult of the Lamb - O Culto do Lambda",
                 "url": "https://youtu.be/WCgao699L0Y",
-                "thumb": "https://i.ytimg.com/an_webp/WCgao699L0Y/mqdefault_6s.webp?du=3000&sqp=CKz_s5sG&rs=AOn4CLAkhbZG6lId9ZB-bywfrrJqWnEuIQ"
+                "thumb": "https://img.youtube.com/vi/WCgao699L0Y/hqdefault.jpg"
             },
             {
                 "title": "LEON INDO DA FELICIDADE AO DESESPERO! - Overwatch 2",
                 "url": "https://youtu.be/bXBf7HjlZMw",
-                "thumb": "https://i.ytimg.com/an_webp/bXBf7HjlZMw/mqdefault_6s.webp?du=3000&sqp=CKzws5sG&rs=AOn4CLAHQuLPD4mD_gHAy-ISudApO3Z6Dw"
+                "thumb": "https://img.youtube.com/vi/bXBf7HjlZMw/hqdefault.jpg"
             },
             {
                 "title": "Montei Um CONTROLE ARCADE PERSONALIZADO! | Hitbox + Mixbox + Stick de Fliperama",
-                "url": "https://youtu.be/WCgao699L0Y",
-                "thumb": "https://i.ytimg.com/an_webp/F5cl8uIR31I/mqdefault_6s.webp?du=3000&sqp=CIaNtJsG&rs=AOn4CLAZb74GBMddsX-5mhcLbH1sXVGdUw"
+                "url": "https://youtu.be/F5cl8uIR31I",
+                "thumb": "https://img.youtube.com/vi/F5cl8uIR31I/hqdefault.jpg"
             },
             {
                 "title": "NUNCA MAIS ABASTEÇO O CARRO DE MADRUGADA | Convenient",
                 "url": "https://youtu.be/XWRWRUBXRmM",
-                "thumb": "https://i.ytimg.com/an_webp/XWRWRUBXRmM/mqdefault_6s.webp?du=3000&sqp=CP2OtJsG&rs=AOn4CLCRDPdLb5SY5zt8kKg5snR_4raPnQ"
+                "thumb": "https://img.youtube.com/vi/XWRWRUBXRmM/hqdefault.jpg"
             },
             {
                 "title": "AS MELHORES MIRAS do Overwatch 2 e COMO USAR CERTO! | Guia Basico do Overwatch 2",
                 "url": "https://youtu.be/N-AcswVAVEc",
-                "thumb": "https://i.ytimg.com/an_webp/N-AcswVAVEc/mqdefault_6s.webp?du=3000&sqp=CJHYs5sG&rs=AOn4CLC6mUea_rgpjnMIVI1esTUv-nruTQ"
+                "thumb": "https://img.youtube.com/vi/N-AcswVAVEc/hqdefault.jpg"
             }
         ],
         "anime": [
             {
                 "title": "SHONEN, SHOUJO... O que é isso? Demografia e gênero dos animes",
                 "url": "https://youtu.be/OjzBp7g4tR0",
-                "thumb": "https://i.ytimg.com/an_webp/OjzBp7g4tR0/mqdefault_6s.webp?du=3000&sqp=COidtJsG&rs=AOn4CLA2l0Qzcflqv7rYEocaVBVQl3hS3w"
+                "thumb": "https://img.youtube.com/vi/OjzBp7g4tR0/hqdefault.jpg"
             }
         ],
         "frontend": [
             {
                 "title": "Pokedex com API, React hooks, useState, useContext, localStorage",
                 "url": "https://youtu.be/n2kkXup2T1c",
-                "thumb": "https://i.ytimg.com/an_webp/n2kkXup2T1c/mqdefault_6s.webp?du=3000&sqp=COOctJsG&rs=AOn4CLClCc-x0ePFizLMdMpIMDNvYGNsQg"
+                "thumb": "https://img.youtube.com/vi/n2kkXup2T1c/hqdefault.jpg"
+            }
+        ]
+    },
+    "favorites":{
+        "fav": [
+            {
+                "title": "Pokedex com API, React hooks, useState, useContext, localStorage",
+                "url": "https://youtu.be/n2kkXup2T1c",
+                "thumb": "ttps://img.youtube.com/vi/WCgao699L0Y/hqdefault.jpg"
+            },
+            {
+                "title": "Pokedex com API, React hooks, useState, useContext, localStorage",
+                "url": "https://youtu.be/n2kkXup2T1c",
+                "thumb": "ttps://img.youtube.com/vi/WCgao699L0Y/hqdefault.jpg"
             }
         ]
     }
