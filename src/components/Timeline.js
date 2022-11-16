@@ -20,19 +20,18 @@ function Timeline({searchValue, ...props}) {
                         }).map((videos) => {
                             return (
                                 <a key={videos.url} href={videos.url}>
-                                    <img src={videos.thumb} />
-                                    <span>
-                                        {videos.title}
-                                    </span>
+                                <img src={videos.thumb} />
+                                <span>
+                                {videos.title}
+                                </span>
                                 </a>
                             )
                         })}
                     </div>
                 </section>
             )
-        })},
-    
-        </div>
+        })},    
+    </div>
     )
 }
 

@@ -5,6 +5,7 @@ import styled from "styled-components"
 
 function Header() {
     const StyledHeader = styled.div`
+    background-color: ${({ theme }) => theme.backgroundLevel1 || "#e5e5e5"};;
     img {
         width: 6rem;
         height: 6rem;

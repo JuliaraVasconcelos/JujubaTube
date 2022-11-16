@@ -7,18 +7,16 @@ import { CSSReset } from "../src/components/CSSReset";
 import { StyledTimeline } from "../src/components/StyleTimeline";
 
 function HomePage() {
-    const estilosHomePage = {
-        display: "flex",
-        flexDirection: "column",
-        flex: 1,
-    };
 
     const [filterValue, setfilterValue] = React.useState('');
 
     return (
         <>
-            <CSSReset />
-            <div style={estilosHomePage}>
+            <div style={{
+                display: "flex",
+                flexDirection: "column",
+                flex: 1,
+}}>
                 <Menu filterValue={filterValue} setfilterValue={setfilterValue}/>
                 <Header />
                 <StyledTimeline>
