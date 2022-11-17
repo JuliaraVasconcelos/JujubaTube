@@ -2,6 +2,7 @@ import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import {CSSReset} from '../src/components/CSSReset';
 import ColorModeProvider, { ColorModeContext } from '../src/components/Menu/components/ColorMode';
+import RegisterVideo from '../src/components/RegisterVideo';
 
 // _app.js -> Definições globais do NextJS
 // ThemeProvider -> Prove o tema para a app toda
@@ -38,8 +39,9 @@ function MyApp({ Component, pageProps }) {
 
     return (
         <ThemeProvider theme={theme[context.mode]}>
-        <Component {...pageProps} />
         <CSSReset />
+        <Component {...pageProps} />
+        <RegisterVideo/>
         </ThemeProvider>
                 )
 }

@@ -4,7 +4,6 @@ function Timeline({searchValue, ...props}) {
 
     const playlistNames = Object.keys(props.playlists);
     // const favorites = Object.keys(props.favorites);
-    const filterValue = 'frost'
     return (
         <div>
             {playlistNames.map((playlistNames)=>{

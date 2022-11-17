@@ -26,6 +26,7 @@ function Header() {
     height: 15rem;
 `;
     return (
+        
         <StyledHeader>
             <StyledBanner header={config.header} />
             <section className="user-info">
@@ -40,6 +41,7 @@ function Header() {
                 </div>
             </section>
         </StyledHeader>
+        
     )
 }
 
