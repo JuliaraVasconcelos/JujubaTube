@@ -1,4 +1,4 @@
-## Sobre o que é o projeto?
+# Sobre o que é o projeto?
 - Um clone do Youtube onde você consegue fazer upload dos seus vídeos favoritos.
 - Esse projeto foi feito durante a Imersão React oferecido gratuitamente pela Alura, onde passaram diversos fundamentos de React e desafios para fossem feitos para incrementar o mesmo.
 
@@ -11,7 +11,7 @@
 - Adição de novos vídeos;
 - Pesquisa dos vídeos adicionados.
 
-# A ser adicionado no projeto:
+## A ser adicionado no projeto:
 - [ ] Adicionar função para excluir vídeo;
 - [ ] Seleção de playlists quando fizer upload do vídeo;
 - [ ] Abrir o vídeo em uma aba da aplicação;
