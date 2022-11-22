@@ -17,3 +17,7 @@
 - [] Seleção de playlists quando fizer upload do vídeo;
 - [] Abrir o vídeo em uma aba da aplicação;
 - [] Adicionar botão de rolagem para linha de vídeos.
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
