@@ -13,7 +13,7 @@
 - Pesquisa dos vídeos adicionados.
 
 # A ser adicionado no projeto:
--[ ] Adicionar função para excluir vídeo;
--[ ] Seleção de playlists quando fizer upload do vídeo;
--[ ] Abrir o vídeo em uma aba da aplicação;
--[ ] Adicionar botão de rolagem para linha de vídeos.
+- [] Adicionar função para excluir vídeo;
+- [] Seleção de playlists quando fizer upload do vídeo;
+- [] Abrir o vídeo em uma aba da aplicação;
+- [] Adicionar botão de rolagem para linha de vídeos.
