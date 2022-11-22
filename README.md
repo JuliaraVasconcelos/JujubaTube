@@ -1,4 +1,3 @@
-![Imagem do projeto](https://imgur.com/a/tGRMBCU)
 ## Sobre o que é o projeto?
 - Um clone do Youtube onde você consegue fazer upload dos seus vídeos favoritos.
 - Esse projeto foi feito durante a Imersão React oferecido gratuitamente pela Alura, onde passaram diversos fundamentos de React e desafios para fossem feitos para incrementar o mesmo.
